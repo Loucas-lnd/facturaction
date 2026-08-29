@@ -2,7 +2,7 @@
 
 Logiciel de **facturation pour les petites entreprises** : créez vos devis et vos
 factures conformes (format Factur-X), suivez vos paiements et vos relances — le tout
-**sur votre ordinateur, sans abonnement**.
+**sur votre ordinateur, avec un paiement unique, sans abonnement**.
 
 ## ⬇️ Télécharger
 
