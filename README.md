@@ -4,7 +4,7 @@ Logiciel de **facturation pour les petites entreprises** : créez vos devis et v
 factures conformes (format Factur-X), suivez vos paiements et vos relances — le tout
 **sur votre ordinateur, avec un paiement unique, sans abonnement**.
 
-## ⬇️ Télécharger
+## Téléchargement
 
 La dernière version se trouve dans la section **[Releases](../../releases/latest)**.
 Téléchargez le fichier **Facturaction Setup X.Y.Z.exe**, puis lancez-le pour installer.
@@ -13,7 +13,7 @@ Téléchargez le fichier **Facturaction Setup X.Y.Z.exe**, puis lancez-le pour i
 > (« éditeur inconnu ») : cliquez sur **Informations complémentaires →
 > Exécuter quand même**.
 
-## ✨ En bref
+## En bref
 
 - Devis et factures **conformes** (Factur-X)
 - Clients, catalogue de produits, factures récurrentes
@@ -23,13 +23,13 @@ Téléchargez le fichier **Facturaction Setup X.Y.Z.exe**, puis lancez-le pour i
 - **Mises à jour automatiques**
 - Fonctionne **hors-ligne** — vos données restent sur votre machine
 
-## 🔑 Licence
+## Licence
 
 Le logiciel s'utilise librement en **mode démonstration**. Une **clé de licence**
 débloque la création et la finalisation des factures. Pour l'obtenir, contactez
 moi sur mon mail: loucas.leonard.pro@gmail.com.
 
-## 🔄 Mises à jour
+## Mises à jour
 
 L'application vérifie automatiquement les nouvelles versions à son lancement et
 vous propose de les installer en un clic.
